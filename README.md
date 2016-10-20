@@ -1,0 +1,2 @@
+# jquery.GAEventTrackListener
+Google AnalyticsのイベントトラッキングAPIにデータを流し込む
